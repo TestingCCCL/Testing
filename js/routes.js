@@ -4,7 +4,7 @@ import Roulette from './pages/Roulette.js';
 import ConixChallenges from './pages/ConixChallenges.js';
 
 export default [
-    { path: '/list', component: List },
+    { path: '/', component: List },
     { path: '/leaderboard', component: Leaderboard },
     { path: '/roulette', component: Roulette },
     { path: '/conixchallenges', component: ConixChallenges },
