@@ -102,10 +102,10 @@ export default {
                         Level must be beaten legitametly with no hacks (FPS bypass is allowed, up to 480 fps)
                     </p>
                     <p>
-                        Record acheived must be levels that are listed on the site - please check the level ID before you submit a record
+                        Records acheived must be levels that are listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        Completion must have clicks clearly audible in the video. (Mobile players are exempt from this rule but they should have taps preferably.)
+                        Completion must have clicks clearly audible in the video. (Mobile players are exempt from this rule but they should referably have taps.)
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt.
